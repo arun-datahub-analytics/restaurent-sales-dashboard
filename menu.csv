@@ -1,0 +1,16 @@
+Item_id,Item_name,Category,Cost_price
+I001,Dosa,Breakfast,60
+I002,Chicken Biryani,Main Course,140
+I003,Parotta,Main Course,90
+I004,Fried Rice,Main Course,100
+I005,Tea,Beverage,10
+I006,Coffee,Beverage,15
+I007,Grill Chicken,Main Course,180
+I008,Mutton Biryani,Main Course,220
+I009,Idly,Breakfast,40
+I010,Vada,Breakfast,30
+I011,Lemon Juice,Beverage,20
+I012,Meals,Main Course,120
+I013,Chapathi,Main Course,70
+I014,Egg Masala,Side Dish,60
+I015,Kalaki,Side Dish,50
