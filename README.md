@@ -1,13 +1,13 @@
 # Restaurant Sales Dashboard
 
-##Project Overview
+## Project Overview
 This project focuses on analyzing restaurant sales and order performance using Python, SQL, and Power BI.  
 It provides insights into revenue trends, customer behavior, top-selling items, and order types to support
 data-driven business decisions.
 
 ---
 
-##Tools & Technologies
+## Tools & Technologies
 - *Python (Pandas)* – Data cleaning & preprocessing  
 - *SQL* – Analytical queries and business insights  
 - *Power BI* – Interactive dashboard & visualizations  
@@ -32,7 +32,7 @@ data-driven business decisions.
 ---
 
 # Power BI Dashboard Preview
-![Dashboard Preview](Dashboard_preview_image_preview.png)
+![Dashboard Preview](Dashboard_preview_image.png)
 
 ---
 ## Author
