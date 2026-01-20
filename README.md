@@ -32,7 +32,7 @@ data-driven business decisions.
 ---
 
 # Power BI Dashboard Preview
-![Dashboard Preview](Dashboard_preview_image.png)
+![Dashboard Preview](Dashboard_preview_image.jpg)
 
 ---
 ## Author
